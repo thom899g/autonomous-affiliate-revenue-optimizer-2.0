@@ -1,0 +1,10 @@
+# Configuration for Affiliate Revenue Optimizer 2.0
+
+GA_API_KEY: "your_api_key_here"
+GA_PROFILE_ID: "your_profile_id_here"
+
+MODEL_PATH: "models/affiliates_model.pkl"
+DASH_API_KEY: "dashboard_api_key"
+
+TOP_OFFERS: 5
+DEBUG_MODE: true
